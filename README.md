@@ -1,8 +1,15 @@
 # SM-Parachute
-Updated & simplified version of [TeamBets (Mani Bet Module Conversion)](https://forums.alliedmods.net/showthread.php?t=56601?t=56601) 
+Simplified version of [SM Parachute](https://forums.alliedmods.net/showthread.php?p=580269) 
 
 # Requirements:
 [SourceMod](https://www.sourcemod.net/downloads.php?branch=stable) 1.10 or higher
 
+# Features:
+New syntax
+
+No models
+
+Simplified & optimized.
+
 # Instalation
-Unpack and upload the files on the server
+Unpack and upload the plugin on the server
